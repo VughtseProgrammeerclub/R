@@ -1,4 +1,6 @@
 # R
+LET OP: Bij de downloads komt er nog een nieuwere versie van het R-bestand
+
 Installatie en bestanden
 Instructies:
 - Zorg dat je een laptop gebruikt waarop je administrator rechten heb.
